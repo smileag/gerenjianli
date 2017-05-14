@@ -1,0 +1,89 @@
+@CHARSET "UTF-8";
+.body{
+	text-align:center;
+	background-image: url(../img/background1.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: inherit;
+}
+.p1{
+	font-family: SimSun;
+	font-weight: bolder;
+	font-size: 25px;
+}
+.div3 a{
+	text-decoration: none;
+}
+.ul1 li{
+	list-style: none;
+	display:inline;
+}
+.ul1 li a{
+	text-decoration: none;
+	color: black;
+}
+.ul1 li a:hover{
+	 background-color: blue;
+}
+.div2{
+	width: 800px;
+	height: 50px;
+	border: 1px solid #fff;
+	background-color: #dfffdf;
+}
+.div1{
+	margin:0 auto;
+	width: 800px;
+	height: 2000px;
+	border: 1px solid  #Ff0;
+	background-color: #d9ffff;
+}
+.div3{
+	width: 800px;
+	height: 350px;
+}
+#aboutme{
+	float: left;
+	border-bottom:1px solid #ff7575;
+	border-width:300px;
+	padding-bottom: 10px;
+	
+}
+.pp{
+	font-family: SimSun ;
+	font-weight: bolder;
+	font-size: 24px;
+	text-align: left;
+}
+
+#education{
+	float: left;
+	border-bottom:1px solid #ffb5b5;
+	border-width:300px;
+	padding-bottom: 10px;
+	
+}
+.ppp{
+	font-family: SimSun ;
+	font-weight: bolder;
+	font-size: 24px;
+	text-align: left;
+}
+#pingjia{
+	float: left;
+	border-bottom:1px solid #ff9d6f;
+	border-width:300px;
+	padding-bottom: 10px;
+}
+#work{
+	float: left;
+	border-bottom:1px solid #c2ff68;
+	border-width:300px;
+	padding-bottom: 10px;
+}
+#skill{
+	float: left;
+	border-bottom:1px solid #ff44ff;
+	border-width:200px;
+	padding-bottom: 10px;
+}
