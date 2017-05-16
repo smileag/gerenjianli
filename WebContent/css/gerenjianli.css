@@ -1,10 +1,13 @@
 @CHARSET "UTF-8";
 .body{
 	text-align:center;
-	background-image: url(../img/background1.jpg);
+	background-image: url(../img/back22.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
+	 line-height: normal;
+    font-weight: normal;
 	background-position: inherit;
+	background-attachment: fixed;
 }
 .p1{
 	font-family: SimSun;
@@ -21,9 +24,11 @@
 .ul1 li a{
 	text-decoration: none;
 	color: black;
+	padding: 10px  20px;
 }
 .ul1 li a:hover{
-	 background-color: blue;
+	height:50px;
+	 background-color: #4f9d9d;
 }
 .div2{
 	width: 800px;
